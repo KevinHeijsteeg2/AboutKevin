@@ -1,0 +1,7 @@
+<form>
+          Naam: <input type="text" name="name">
+          E-mail: <input type="text" name="email">
+          Telefoonnummer: <input type="text" name="phonenumber">
+          Onderwerp: <textarea name="comment" rows="5" cols="40"></textarea>
+          <input type="submit">
+      </form>

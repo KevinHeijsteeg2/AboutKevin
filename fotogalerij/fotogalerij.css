@@ -1,0 +1,36 @@
+body {
+    font-family: 'Livvic';
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .container-fluid {
+    font-family: 'Livvic';
+  }
+
+  header {
+    min-height: 50px;
+}
+
+body {
+    font-family: 'Livvic';
+    min-height: 100vh;
+    margin: 0;
+}
+
+
+body {
+    position: relative;
+  }
+
+  footer {
+    position: absolute;
+    margin: 0, 0, 0, 0;
+    width: 100%;
+    left: 0;
+    height: 50px;
+  }
+
+  .navbar-nav {
+    left: 0;
+  }
