@@ -1,27 +1,21 @@
-header {
-    min-height: 50px;
-}
-
 body {
     font-family: 'Livvic';
-    min-height: 100vh;
-    margin: 0;
-    position: relative;
 }
-
-
-body {
-    position: relative;
-  }
 
 footer {
     font-family: 'Livvic';
     font-weight: bold;
     left: 0;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     height: 50px;
     text-decoration: none   ;
     color: black;
+  }
+
+.footerlogo {
+    background-color: rgba(0, 0, 0, 0.05) ;
+    position: relative;
+
 }
